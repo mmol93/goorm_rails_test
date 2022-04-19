@@ -1,0 +1,15 @@
+Started GET "/" for 127.0.0.1 at 2022-04-19 22:44:27 +0900
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/ljws93/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/railties-6.0.4.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/ljws93/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/railties-6.0.4.7/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.3ms | Allocations: 478)
+Completed 200 OK in 13ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 3156)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-19 22:44:32 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/ljws93/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/railties-6.0.4.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/ljws93/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/railties-6.0.4.7/lib/rails/templates/rails/welcome/index.html.erb (Duration: 16.6ms | Allocations: 702)
+Completed 200 OK in 24ms (Views: 20.1ms | ActiveRecord: 0.0ms | Allocations: 1830)
+
+
